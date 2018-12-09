@@ -7,7 +7,7 @@ A Vue CLI preset configuration.
 You run it by executing 
 
 ```bash
-vue create --preset johnpapa/vue-cli-preset--all-javascript hello-vue
+vue create --preset johnpapa/vue-cli-preset-all-javascript hello-vue
 ```
 
 
