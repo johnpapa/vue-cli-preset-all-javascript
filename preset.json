@@ -4,10 +4,7 @@
     "@vue/cli-plugin-babel": {},
     "@vue/cli-plugin-pwa": {},
     "@vue/cli-plugin-eslint": {
-      "config": "prettier",
-      "lintOn": [
-        "save"
-      ]
+      "prompts": true
     },
     "@vue/cli-plugin-unit-mocha": {},
     "@vue/cli-plugin-e2e-cypress": {}
